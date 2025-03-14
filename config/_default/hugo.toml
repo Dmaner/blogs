@@ -1,5 +1,5 @@
 title = "Data Eye"
-baseurl = "http://localhost/"
+baseurl = "https://lemon-tom.top/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
