@@ -1,1 +1,9 @@
 // Put your custom SCSS code here
+.circle-avatar {
+  border-radius: 50%; /* 将图片裁剪为圆形 */
+  display: block; /* 确保图片是块级元素 */
+  margin: 0 auto; /* 居中显示 */
+  width: 25%; /* 保持图片宽度为 20% */
+  aspect-ratio: 1 / 1; /* 保持图片为正方形 */
+  object-fit: cover; /* 确保图片填充整个圆形区域 */
+}
