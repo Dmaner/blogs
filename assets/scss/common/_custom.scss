@@ -7,3 +7,11 @@
   aspect-ratio: 1 / 1; /* 保持图片为正方形 */
   object-fit: cover; /* 确保图片填充整个圆形区域 */
 }
+
+/* 小屏幕设备（如手机） */
+@media (max-width: 768px) {
+  .circle-avatar {
+    width: 40%; /* 在小屏幕上增加宽度 */
+    max-width: 150px; /* 调整最大宽度 */
+  }
+}

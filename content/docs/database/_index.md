@@ -5,8 +5,10 @@ summary: ""
 date: 2025-03-14T13:10:51+08:00
 lastmod: 2025-03-14T13:10:51+08:00
 draft: false
-weight: 999
+weight: 100
 toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
