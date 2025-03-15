@@ -9,3 +9,6 @@ Website Doc
 
 - [Getting Start](https://getdoks.org/docs/start-here/getting-started/)
 
+```bash
+npm install
+```
