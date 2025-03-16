@@ -14,8 +14,4 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.
-
-## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+记录一些学习沉淀后的结果,大部分是文字和代码,总结博客内容,或者以工具或者项目纬度总结内容

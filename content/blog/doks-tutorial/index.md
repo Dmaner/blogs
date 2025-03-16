@@ -2,12 +2,11 @@
 title: "Blog Test"
 description: ""
 summary: ""
-date: 2023-09-07T16:21:44+02:00
-lastmod: 2023-09-07T16:21:44+02:00
+date: 2025-03-07T16:21:44+02:00
+lastmod: 2025-03-07T16:21:44+02:00
 draft: false
 weight: 50
-categories: []
-tags: []
+tags: ["tutorial"]
 contributors: []
 pinned: false
 homepage: false
@@ -23,6 +22,7 @@ asdadad
 
 {{< img src="images/section-navigation-light.png" alt="Section navigation light variant" >}}
 {{< img src="images/section-navigation-dark.png" alt="Section navigation dark variant">}}
+![A Whale](whale.png)
 
 ```kroki {type=mermaid}
 gantt

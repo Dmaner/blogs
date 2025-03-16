@@ -1,10 +1,10 @@
 # Hugo
-title = "Data Eye"
-description = "Congrats on setting up a new Doks project!"
+title = "Lemon Tom's Blog"
+description = "Welcome to my blogs"
 images = ["cover.png"]
 
 # mainSections
-mainSections = ["docs"]
+mainSections = ["docs", "project"]
 
 # [social]
 #   twitter = "getdoks"
